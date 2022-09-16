@@ -1,0 +1,32 @@
+WRANGLING vs. AED
+À un autre moment de votre voyage dans les données, vous rencontrerez un sujet appelé analyse exploratoire des données (AED).
+Si vous avez déjà rencontré l'AED, vous vous dites peut-être : la préparation des données semble très similaire à l'analyse exploratoire 
+des données. Et c'est parce qu'elles sont très similaires et qu'on les confond souvent.
+
+DEFINITION AED : une approche d'analyse qui se concentre sur l'identification de modèles généraux dans les données,
+ et sur l'identification de valeurs aberrantes et de caractéristiques des données qui n'auraient pas été anticipées.
+
+Alors, où se termine la préparation des données et où commence l'AED ?
+
+LA PREPARATION DES DONNEES
+ consiste à rassembler les bons éléments de données, à évaluer la qualité et la structure de vos données, 
+puis à modifier vos données pour les rendre propres. Mais les évaluations que vous faites et que vous convertissez
+ en opérations de nettoyage ne rendent pas votre analyse, votre visualisation ou votre modèle meilleur pour autant.
+ L'objectif est simplement de les rendre possibles, c'est-à-dire fonctionnels.
+
+L'AED
+consiste à explorer vos données pour les enrichir ultérieurement afin de maximiser le potentiel de nos analyses,
+visualisations et modèles. Lors de l'exploration, des visualisations simples sont souvent utilisées pour résumer les 
+principales caractéristiques de vos données. À partir de là, vous pouvez faire des choses comme supprimer
+les valeurs aberrantes et créer de nouvelles caractéristiques plus descriptives à partir des données existantes,
+également connues sous le nom de ingénierie des caractéristiques. Ou encore, détecter et supprimer les valeurs aberrantes 
+pour que l'ajustement de votre modèle soit meilleur.
+Dans la pratique, la préparation et l'AED peuvent se produire et se produisent souvent ensemble,
+mais nous allons les séparer à des fins pédagogiques.
+
+ETL
+Vous avez peut-être aussi entendu parler du processus d'extraction-transformation-chargement également connu 
+sous le nom de ETL. L'ETL diffère de la préparation des données de trois façons principales :
+Les utilisateurs sont différents
+Les données sont différentes
+Les cas d'utilisation sont différents
